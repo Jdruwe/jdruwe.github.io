@@ -1,1 +1,1 @@
-console.log('From the sample script 1');
+console.log('>>> [SAMPLE - SCRIPT] new!');
