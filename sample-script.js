@@ -1,0 +1,1 @@
+console.log('From the sample script 1');
