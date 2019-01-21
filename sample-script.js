@@ -1,1 +1,1 @@
-console.log('>>> [SAMPLE - SCRIPT] new!');
+console.log('>>> [SAMPLE - SCRIPT] this one is even newer!');
